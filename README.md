@@ -1,0 +1,1 @@
+A row and column video game in which the user must get their character to the other side of the map without colliding with the bombs around, it will have a life counter, a time meter, and a record time register completing the level.
